@@ -10,4 +10,4 @@ class B extends A<Integer> {
 
 }
 
-
+some message to be deleted
